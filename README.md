@@ -14,6 +14,7 @@
 11.  [DynamicProgramming](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#DynamicProgramming)
 12.  [Graph ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Graph)
 ## Math
+
  1. [InverseMultiPlecation](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/InverseMultiPlecation.cpp)
  2. [extendedEqulidAlgo](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/extendedEqulidAlgo.cpp)
  3. [facterzation](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/facterzation.cpp)
@@ -21,7 +22,7 @@
  5. [gcdbyEqulidtheo.cpp](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/gcdbyEqulidtheo.cpp)
  6. [numPowMod.cpp](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/numPowMod.cpp)
 
- ## LinkList
+## LinkList
  1. [Intersectedlinkedlist](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/ProblemOnlinkedList/Intersectedlinkedlist.cpp)
  2. [LINKlistcreat](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/ProblemOnlinkedList/LINKlistcreat.cpp)
  3. [isEqualLL](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/ProblemOnlinkedList/isEqualLL.cpp)
