@@ -1,18 +1,18 @@
 # Data Structure And Algorithm
 1.  [Maths](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#math)
-2.  [LinkList](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#LinkList)
-3.  [Stack](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Stack )
-4.  [Queue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Queue)
-5.  [Hash-Map](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Hash-Map)
-6.  [Set ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Set)
-7.  [Backtracking](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Backtracking)
-8.  [GreedyAlgorithm](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#GreedyAlgorithm)
-9.  [Tree ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Tree)
+2.  [LinkList](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#linklist)
+3.  [Stack](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#stack )
+4.  [Queue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#queue)
+5.  [Hash-Map](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#hash-map)
+6.  [Set ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#set)
+7.  [Backtracking](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#backtracking)
+8.  [GreedyAlgorithm](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#greedyalgorithm)
+9.  [Tree ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#tree)
       - binary tree
       - general tree
-10. [PriorityQueue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#PriorityQueue)
-11.  [DynamicProgramming](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#DynamicProgramming)
-12.  [Graph ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Graph)
+10. [PriorityQueue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#priorityqueue)
+11.  [DynamicProgramming](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#dynamicprogramming)
+12.  [Graph ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#graph)
 ## Math
 
  1. [InverseMultiPlecation](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/InverseMultiPlecation.cpp)
