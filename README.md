@@ -1,17 +1,17 @@
 # Data Structure And Algorithm
 1.  [Maths](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#math)
-2.  [LinkList] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#LinkList)
-3.  [Stack] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Stack )
-4.  [Queue] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Queue)
-5.  [Hash-Map] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Hash-Map)
+2.  [LinkList](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#LinkList)
+3.  [Stack](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Stack )
+4.  [Queue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Queue)
+5.  [Hash-Map](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Hash-Map)
 6.  [Set ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Set)
-7.  [Backtracking] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Backtracking)
-8.  [GreedyAlgorithm] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#GreedyAlgorithm)
+7.  [Backtracking](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Backtracking)
+8.  [GreedyAlgorithm](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#GreedyAlgorithm)
 9.  [Tree ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Tree)
       - binary tree
       - general tree
-10. [PriorityQueue] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#PriorityQueue)
-11.  [DynamicProgramming] (https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#DynamicProgramming)
+10. [PriorityQueue](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#PriorityQueue)
+11.  [DynamicProgramming](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#DynamicProgramming)
 12.  [Graph ](https://fthabhishek-pandey.github.io/Data-Structure-And-Algorithm/#Graph)
 ## Math
  1. [InverseMultiPlecation](https://github.com/fThAbhishek-Pandey/Data-Structure-And-Algorithm/blob/main/math/InverseMultiPlecation.cpp)
