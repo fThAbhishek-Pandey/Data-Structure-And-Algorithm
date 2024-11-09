@@ -42,7 +42,7 @@ void f( vector<int> &arr,vector<int> nums, int i, int tar){
    }
    int j= i+1;
    while ( arr[j]==arr[j-1]) j++;
-   f(arr, nums, i+1, tar);
+   f(arr, nums, j, tar);
    
 
 
